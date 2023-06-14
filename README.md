@@ -21,8 +21,8 @@ sender_email: Replace "kala2d@gmail.com" with your own email address.
 receiver_email: Replace "sneha5@gmail.com" with the recipient's email address.
 subject: Replace "Subject of the email" with the desired subject line of your email.
 image_url: Replace "https://images.pexels.com/photos/96627/pexels-photo-96627.jpeg?cs=srgb&dl=pexels-photomix-company-96627.jpg&fm=jpg" with the URL of the image you want to include in the email.
-username: Replace "supraja2d@gmail.com" with your email address.
-password: Replace "tofluxdemjigaprs" with your email account password or an application-specific password.
+username: Replace "kala2d@gmail.com" with your email address.
+password: Replace "tofluxdemjigaprsp" with your email account password or an application-specific password.
 Set the correct SMTP server and port:
 
 By default, the code is set to use Gmail's SMTP server (smtp.gmail.com) on port 465, which uses SSL encryption. If you are using a different email provider, you may need to update these values accordingly.
