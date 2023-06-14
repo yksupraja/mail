@@ -3,12 +3,12 @@ Creating an email using python.
 
 This code sends an email with an HTML body and an image attachment using the SMTP protocol. It uses the smtplib library to establish a secure connection with the SMTP server and the MIMEText and MIMEMultipart classes from the email.mime.text and email.mime.multipart modules to construct the email message.
 
-Features
+# Features
 Email Composition
 SMTP Server Configuration
 Sending the Email
 
-Usage
+# Usage
 Make sure you have the necessary dependencies installed:
 
 The smtplib module is usually included in Python's standard library, so you should already have it.
