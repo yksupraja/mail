@@ -5,7 +5,9 @@ This code sends an email with an HTML body and an image attachment using the SMT
 
 # Features
 Email Composition
+
 SMTP Server Configuration
+
 Sending the Email
 
 # Usage
